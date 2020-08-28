@@ -1,0 +1,27 @@
+QLineEdit{
+    padding : 1px;
+    border : 2px solid gray;
+    border-radius: 8px;
+    background-color: yellow;
+    height: 30;
+}
+
+QWidget#Widget > QLabel {
+    font-weight : bold;
+    font-size : 20px;
+}
+
+QPushButton[text="Submit"] {
+    color : white;
+    background-color: gray;
+}
+
+QPushButton#okbutton {
+    color : white;
+    background-color: green;
+}
+
+QPushButton#pushButton_2 {
+    color : white;
+    background-color: red;
+}
